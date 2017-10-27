@@ -1,6 +1,6 @@
 (function(){
 	var jquery_version='2.1.4';
-	var site_url='http://localhost:8000/';
+	var site_url='https://cdn.rawgit.com/alariver/jslib/master/images/static/';
 	var static_url=site_url+'static/';
 	var min_width=100;
 	var min_height=100;
